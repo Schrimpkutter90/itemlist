@@ -21,18 +21,18 @@ tumblr:
 twitter:
 vimeo:
 wordpress:
-youtube: # Youtube channel token like: UCqECaJ8Gagnn7YCbPEzWH6g
-twitch: sirrandoo
+youtube: UC1SqkkYb9Q_2ol7sg0cFmPQ
+twitch: MadLeyTV
 tiktok:
 
 # Share button options
 share:
-  facebook: true
-  twitter: true
+  facebook: 
+  twitter: 
   tumblr:
   pinterest:
   pocket:
-  reddit: true
+  reddit: 
   linkedin:
   wordpress:
-  email: true
+  email: 
