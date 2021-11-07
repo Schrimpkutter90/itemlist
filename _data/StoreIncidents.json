@@ -116,11 +116,6 @@
 		"karmatype": "Good"
 	},
 	{
-		"abr": "transportpodcrash",
-		"price": 600,
-		"karmatype": "Good"
-	},
-	{
 		"abr": "tradercaravan",
 		"price": 275,
 		"karmatype": "Good"
@@ -132,12 +127,12 @@
 	},
 	{
 		"abr": "meteor",
-		"price": 150,
+		"price": 600,
 		"karmatype": "Neutral"
 	},
 	{
 		"abr": "maninblack",
-		"price": 350,
+		"price": 650,
 		"karmatype": "Good"
 	},
 	{
@@ -172,7 +167,7 @@
 	},
 	{
 		"abr": "wildman",
-		"price": 300,
+		"price": 600,
 		"karmatype": "Good"
 	},
 	{
@@ -357,7 +352,7 @@
 	},
 	{
 		"abr": "surgery",
-		"price": 500,
+		"price": 1,
 		"karmatype": "Neutral"
 	},
 	{
@@ -397,6 +392,11 @@
 	},
 	{
 		"abr": "settraits",
+		"price": 1,
+		"karmatype": "Neutral"
+	},
+	{
+		"abr": "cleartraits",
 		"price": 1,
 		"karmatype": "Neutral"
 	},
