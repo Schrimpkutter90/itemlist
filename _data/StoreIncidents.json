@@ -132,7 +132,7 @@
 	},
 	{
 		"abr": "maninblack",
-		"price": 650,
+		"price": 350,
 		"karmatype": "Good"
 	},
 	{
@@ -182,7 +182,7 @@
 	},
 	{
 		"abr": "travelergroup",
-		"price": 80,
+		"price": 300,
 		"karmatype": "Good"
 	},
 	{
@@ -342,12 +342,12 @@
 	},
 	{
 		"abr": "healanypawn",
-		"price": 2000,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
 		"abr": "healme",
-		"price": 2167,
+		"price": 500,
 		"karmatype": "Good"
 	},
 	{
